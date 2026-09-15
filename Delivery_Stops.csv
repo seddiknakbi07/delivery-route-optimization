@@ -1,0 +1,23 @@
+Stop_ID,Customer_Name,Latitude,Longitude,Dispatch_Order
+D-09,École Ste-Anne,48.166145,-79.002108,1
+D-15,Bibliothèque Municipale,48.225917,-79.044797,2
+D-19,Résidence Bouchard,48.29229,-79.004658,3
+D-14,Atelier Métal Plus,48.248425,-78.993181,4
+D-18,Boulangerie Artisan,48.241689,-78.963873,5
+D-06,Café Central,48.255118,-79.119114,6
+D-03,Dépanneur du Lac,48.205467,-78.96801,7
+D-21,Librairie du Quartier,48.193311,-78.935629,8
+D-01,Tremblay Résidence,48.218731,-79.031031,9
+D-02,Bureau Nordik,48.194017,-79.017195,10
+D-13,Épicerie du Coin,48.187982,-78.991188,11
+D-07,Boucherie St-Jean,48.241316,-79.036387,12
+D-17,Salon Coiffure Élégance,48.274675,-79.067475,13
+D-10,Garage Lachance,48.22533,-78.952956,14
+D-22,Résidence Côté,48.213317,-79.017334,15
+D-08,Pharmacie Nordique,48.244184,-79.006326,16
+D-12,Résidence Roy,48.265452,-79.060169,17
+D-04,Gagnon & Fils,48.225793,-79.030709,18
+D-11,Quincaillerie Boucher,48.260391,-78.999979,19
+D-20,Centre Sportif,48.246436,-78.962062,20
+D-05,Clinique Rouyn,48.23495,-78.998182,21
+D-16,Restaurant Le Nord,48.250649,-78.939657,22
